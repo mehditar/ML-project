@@ -17,11 +17,4 @@ In this project, I analysed a dataset of  car crashes happened in the U.S. betwe
 
 * A word representation dataset, GloVe from Stanford university at [here](https://nlp.stanford.edu/projects/glove/).
 
-<code>  
 
-
-
-</code>
-
-
-#### <font>**Loading and Exploring the Dataset**</font>
