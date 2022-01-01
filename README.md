@@ -1,5 +1,5 @@
 ## <font color='blue'>**Analysis of the severity of car accidents in U.S **</font>
-In this project, I analysed a dataset of  car crashes happened in the U.S. between 2016 to 2020. This dataset contains 1.2 million accidents where for each information about the time of the accident, exact location of the accident, the weather information at the time of the accident and severity of the accident exists in the dataset.
+In this project, I analysed a dataset of  car crashes happened in the U.S. between 2016 to 2020. This dataset contains 1.2 million accidents where for each, information about the time of the accident, exact location of the accident, the weather information at the time of the accident and severity of the accident exists in the dataset.
   To do the analysis, in the first step, I did some data cleaning. Feature extraction was necessary and was the second step of this analysis. Then the effects of each feature on the severity of the accidents was analysed. And finally using deep learning models, a model for predicting the severity of car accidents just using the provided features was developed and tested.
   
 ### <font color='green'>**Dependencies:**</font>
